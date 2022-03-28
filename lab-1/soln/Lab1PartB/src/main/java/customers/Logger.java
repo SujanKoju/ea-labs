@@ -1,7 +1,9 @@
 package customers;
 
-import java.time.LocalDateTime;
+import org.springframework.stereotype.Service;
 
+import java.time.LocalDateTime;
+@Service
 public class Logger implements ILogger {
 
     public void log(String logstring) {
