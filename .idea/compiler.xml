@@ -6,12 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Exercise1" />
         <module name="BasicSpringApplication" />
         <module name="BasicSpringApplication (3)" />
         <module name="BasicSpringApplication (4)" />
         <module name="BasicSpringApplication (1)" />
         <module name="BasicSpringApplication (2)" />
+        <module name="Exercise1 (1)" />
+        <module name="Exercise1 (2)" />
+        <module name="Exercise1" />
+        <module name="Exercise1 (3)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +24,9 @@
       <module name="BasicSpringApplication (3)" target="1.11" />
       <module name="BasicSpringApplication (4)" target="1.11" />
       <module name="Exercise1" target="1.11" />
+      <module name="Exercise1 (1)" target="1.11" />
+      <module name="Exercise1 (2)" target="1.11" />
+      <module name="Exercise1 (3)" target="1.11" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -7,7 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiJavaConfig/BasicSpringApplication (2).iml" filepath="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiJavaConfig/BasicSpringApplication (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiMostSimpleConfig/BasicSpringApplication (3).iml" filepath="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiMostSimpleConfig/BasicSpringApplication (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiClassPathScanning/BasicSpringApplication (4).iml" filepath="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiClassPathScanning/BasicSpringApplication (4).iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab-1/Lab1PartA/Exercise1.iml" filepath="$PROJECT_DIR$/lab-1/Lab1PartA/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-1/soln/Lab1PartB/Exercise1.iml" filepath="$PROJECT_DIR$/lab-1/soln/Lab1PartB/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-1/soln/Lab1PartA/Exercise1 (1).iml" filepath="$PROJECT_DIR$/lab-1/soln/Lab1PartA/Exercise1 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-1/soln/Lab1PartC/Exercise1 (2).iml" filepath="$PROJECT_DIR$/lab-1/soln/Lab1PartC/Exercise1 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-1/soln/Lab1PartD/Exercise1 (3).iml" filepath="$PROJECT_DIR$/lab-1/soln/Lab1PartD/Exercise1 (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ea-labs.iml" filepath="$PROJECT_DIR$/.idea/ea-labs.iml" />
     </modules>
   </component>
