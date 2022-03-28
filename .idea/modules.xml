@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1BasicSpring/BasicSpringApplication.iml" filepath="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1BasicSpring/BasicSpringApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiXML/BasicSpringApplication (1).iml" filepath="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiXML/BasicSpringApplication (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiJavaConfig/BasicSpringApplication (2).iml" filepath="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiJavaConfig/BasicSpringApplication (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiMostSimpleConfig/BasicSpringApplication (3).iml" filepath="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiMostSimpleConfig/BasicSpringApplication (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiClassPathScanning/BasicSpringApplication (4).iml" filepath="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiClassPathScanning/BasicSpringApplication (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-1/Lab1PartA/Exercise1.iml" filepath="$PROJECT_DIR$/lab-1/Lab1PartA/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ea-labs.iml" filepath="$PROJECT_DIR$/.idea/ea-labs.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lab-1/Lab1PartA/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1BasicSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiXML/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiJavaConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiMostSimpleConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-1/Lesson+1+demo+code/Lesson1SpringDiClassPathScanning/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

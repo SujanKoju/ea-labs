@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="customerService" class="customers.CustomerService">
+        <property name="customerDAO" ref="customerDao"/>
+        <property name="emailService" ref="emailService"/>
+    </bean>
+
+    <bean id="customerDao" class="customers.CustomerDAO">
+        <property name="logger" ref="logger"/>
+    </bean>
+
+    <bean id="emailService" class="customers.EmailSender">
+        <property name="logger" ref="logger"/>
+    </bean>
+
+
+    <bean id="logger" class="customers.Logger"/>
+</beans>

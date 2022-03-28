@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Exercise1" />
+        <module name="BasicSpringApplication" />
+        <module name="BasicSpringApplication (3)" />
+        <module name="BasicSpringApplication (4)" />
+        <module name="BasicSpringApplication (1)" />
+        <module name="BasicSpringApplication (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BasicSpringApplication" target="1.11" />
+      <module name="BasicSpringApplication (1)" target="1.11" />
+      <module name="BasicSpringApplication (2)" target="1.11" />
+      <module name="BasicSpringApplication (3)" target="1.11" />
+      <module name="BasicSpringApplication (4)" target="1.11" />
+      <module name="Exercise1" target="1.11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
