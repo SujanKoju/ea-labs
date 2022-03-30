@@ -15,6 +15,7 @@
         <module name="Exercise1 (2)" />
         <module name="Exercise1" />
         <module name="Exercise1 (3)" />
+        <module name="Exercise1 (4)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +28,7 @@
       <module name="Exercise1 (1)" target="1.11" />
       <module name="Exercise1 (2)" target="1.11" />
       <module name="Exercise1 (3)" target="1.11" />
+      <module name="Exercise1 (4)" target="1.11" />
     </bytecodeTargetLevel>
   </component>
 </project>
