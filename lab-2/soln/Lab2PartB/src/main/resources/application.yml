@@ -1,0 +1,5 @@
+mail:
+  server : smtp.acme.com
+spring:
+  profiles:
+    active : dev
