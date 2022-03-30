@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/Lab2PartA/pom.xml" />
         <option value="$PROJECT_DIR$/Lab2PartB/pom.xml" />
+        <option value="$PROJECT_DIR$/BankApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/BankApplicationWithAop/pom.xml" />
       </list>
     </option>
   </component>
